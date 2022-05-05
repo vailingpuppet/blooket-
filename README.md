@@ -31,17 +31,21 @@
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Overpowered%20Towers.js">Overpowered Tokens</a> - Make the towers you place and have overpowered.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Place%20Blooks%20Anywhere.js">Place Blooks Anywhere</a> - Place the blooks anywhere you want.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Set%20Round.js">Set Round</a> - Set the round to anything you want.
+- Cafe:
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Cafe/Get%20Cash.js">Get Cash</a> - Set the cash you have in cafe mode to anything you want.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Cafe/Max%20Level%20Items.js">Max Level Items</a> - Set the items you have to the maximum level.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Cafe/Stock%20Unlimited%20Food.js">Stock Unlimited Food</a> - This will stock unlimited food in the cafe mode.
+- Factory:
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Factory/Add%20Cash.js">Add Cash</a> - Set the cash you have in factory mode to anything you want.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Factory/Add%20Mega%20Bot.js">Add Mega Bot</a> - Get however much mega bots you want.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Factory/Clear%20Ads%20Forever.js">Clear Ads Forever</a> - This will clear all the all the ads throught the game.
+- Race:
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Race/Instant%20Win.js">Instant Win</a> - Instantly win the race! (Once the hack is pasted and entered into the console then get a answer correct to win the game.)
 - Tower of Doom:
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Of%20Doom/Bad%20Enemy.js">Bad Enemy</a> - Make the enemy have really bad stats.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Of%20Doom/Get%20Coins.js">Get Coins</a> - Set the coins you have to anything you want.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Of%20Doom/Health%20Hack.js">Health Hack</a> - Set your health to anything you want.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Of%20Doom/Max%20Stats.js">Max Stats</a> - Make your blook overpowered.
-- Cafe:
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Cafe/Get%20Cash.js">Get Cash</a> - Set the cash you have in cafe mode to anything you want.
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Cafe/Max%20Level%20Items.js">Max Level Items</a> - Set the items you have to the maximum level.
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Cafe/Stock%20Unlimited%20Food.js">Stock Unlimited Food</a> - This will stock unlimited food in the cafe mode.
-- Race:
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Race/Instant%20Win.js">Instant Win</a> - Instantly win the race! (Once the hack is pasted and entered into the console then get a answer correct to win the game.)
 
 
 #### I am not responsible for your actions with these cheats.
