@@ -16,8 +16,11 @@
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Flood%20Game.js">Flood Game</a> - Flood the game that you are in.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Select%20Any%20Blook.js">Select Any Blook</a> - Select any blook that you want before the game starts! (Once the hack is pasted and entered into the console then select a random blook to show all the unlocked blooks!)
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Get%20Answer%20Points.js">Get Answer Points</a> - Get however much of correct answers in the final score you want
+- Deceptive Dinos:
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Deceptive%20Dinos/Fossil%20Hack.js">Fossil Hack</a> - Get however many Fossils you want
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Deceptive%20Dinos/Fossil%20Multiplier.js">Fossil Multiplier</a> - Set the fossil multiplier to anything
 - Gold Quest:
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Gold%20Quest/Chest%20ESP.js">Chest ESP</a> - See Through Chests in Gold Quest/
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Gold%20Quest/Chest%20ESP.js">Chest ESP</a> - See Through Chests in Gold Quest
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Gold%20Quest/Get%20Gold.js">Get Gold</a> - Set the gold you have in gold quest to anything you want.
 - Crypto Hack:
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Crypto%20Hack/Auto%20Input%20Password.js">Auto Input Password</a> - Guess the password automatically once the password choices are shown.
