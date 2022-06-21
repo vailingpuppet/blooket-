@@ -15,7 +15,7 @@
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/All%20Answers%20Correct.js">All Answers Correct</a> - Get all the answers correct no matter what.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/End%20Game.js">End Game</a> - End the game even if you aren't the host.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Flood%20Game.js">Flood Game</a> - Flood the game that you are in.
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Select%20Any%20Blook.js">Select Any Blook</a> - Select any blook that you want before the game starts! (Once the hack is pasted and entered into the console then select a random blook to show all the unlocked blooks!)
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Select%20Any%20Blook.js">Select Any Blook</a> - Select any blook that you want before the game starts! Automated by @notzastix on GitHub!
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Get%20Answer%20Points.js">Get Answer Points</a> - Get however much of correct answers in the final score you want
 - Deceptive Dinos:
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Deceptive%20Dinos/Fossil%20Hack.js">Fossil Hack</a> - Get however many Fossils you want
