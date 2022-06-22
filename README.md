@@ -17,7 +17,7 @@
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Flood%20Game.js">Flood Game</a> - Flood the game that you are in.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Kick%20All.js">Kick All</a> - Kick Every Player In The Game
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Remove%20Player.js">Remove Player</a> - Remove a specific player from a game.
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Anti-Ban.js">Anti-Ban</a> - Prevent from your account being suspended (run this every time or use TamperMonkey)
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Anti-Ban.js">Anti-Ban</a> - Prevent from your account being suspended (Run this every time or use TamperMonkey)
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Select%20Any%20Blook.js">Select Any Blook</a> - Select any blook that you want before the game starts! Automated by <a href="https://github.com/notzastix">@notzastix</a> on GitHub!
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Get%20Answer%20Points.js">Get Answer Points</a> - Get however much of correct answers in the final score you want
 - Deceptive Dinos:
