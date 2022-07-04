@@ -13,7 +13,7 @@
 - Default Scripts:
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Add%20Tokens.js">Add Tokens</a> - Add the maximum XP and Tokens availible for the day.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/All%20Answers%20Correct.js">All Answers Correct</a> - Get all the answers correct no matter what.
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/End%20Game.js">End Game</a> - End the game even if you aren't the host.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Host/End%20Game.js">End Game</a> - End the game. (Host)
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Flood%20Game.js">Flood Game</a> - Flood the game that you are in.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Host/Kick%20All.js">Kick All</a> - Kick Every Player In The Game. (Host)
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Host/Remove%20Player.js">Remove Player</a> - Remove a specific player from a game. (Host)
