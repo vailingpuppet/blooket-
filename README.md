@@ -12,6 +12,7 @@
 ## Features:
 - Default Scripts:
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Add%20Tokens.js">Add Tokens</a> - Add the maximum XP and Tokens availible for the day.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Manipulate%20Plus.js">Manipulate Plus</a> - Make yourself a Plus Flex user! This means you can play modes that are only availible to plus users!
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/All%20Answers%20Correct.js">All Answers Correct</a> - Get all the answers correct no matter what.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Host/End%20Game.js">End Game</a> - End the game. (Host)
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Flood%20Game.js">Flood Game</a> - Flood the game that you are in.
