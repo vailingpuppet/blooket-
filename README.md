@@ -19,7 +19,7 @@
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Host/Kick%20All.js">Kick All</a> - Kick Every Player In The Game. (Host)
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Host/Remove%20Player.js">Remove Player</a> - Remove a specific player from a game. (Host)
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Anti-Ban.js">Anti-Ban</a> - Prevent your account from being suspended. If you don't want to run this every time, you can use the <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Tampermonkey/Anti-Ban.js">Tampermonkey Version</a>.
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Select%20Any%20Blook.js">Select Any Blook</a> - Select any blook that you want before the game starts! Automated by <a href="https://github.com/notzastix">@notzastix</a> on GitHub!
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Select%20Any%20Blook.js">Select Any Blook</a> - Select any blook that you want before the game starts! Fixed by <a href="https://github.com/notzastix">@notzastix</a> on GitHub!
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Get%20Answer%20Points.js">Get Answer Points</a> - Get however much of correct answers in the final score you want.
 - Deceptive Dinos:
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Deceptive%20Dinos/Fossil%20Hack.js">Fossil Hack</a> - Get however many Fossils you want.
@@ -27,6 +27,16 @@
 - Gold Quest:
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Gold%20Quest/Chest%20ESP.js">Chest ESP</a> - See Through Chests in Gold Quest.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Gold%20Quest/Get%20Gold.js">Get Gold</a> - Set the gold you have in gold quest to anything you want.
+- Monster Brawl:
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Monster%20Brawl/Godmode.js">Godmode</a> - Never die in Monster Brawl.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Monster%20Brawl/Max%Abilities.js">Max Abilities</a> - Maxes all your abilities.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Monster%20Brawl/Set%20Damage.js">Set Damage</a> - Set the damage your abilities do.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Monster%20Brawl/Set%20Level.js">Set Level</a> - Set your current level.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Monster%20Brawl/Set%20Xp.js">Set Xp</a> - Set the amount of XP you have.
+- Flappy Bird (game to play while waiting for host to start):
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Flappy%20Bird/Godmode.js">Godmode</a> - Remove the dying mechanic from the game.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Flappy%20Bird/Remove%20Pipes.js">Remove Pipes</a> - Removes all the pipes (you still get score).
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Flappy%20Bird/Set%20Score.js">Set%20Score</a> - Set your score to anything.
 - Crypto Hack:
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Crypto%20Hack/Auto%20Input%20Password.js">Auto Input Password</a> - Guess the password automatically once the password choices are shown.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Crypto%20Hack/Get%20Crypto.js">Get Crypto</a> - Set the crypto you have in crypto hack to anything you want.
