@@ -36,7 +36,7 @@
 - Flappy Bird (game to play while waiting for host to start):
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Flappy%20Bird/Godmode.js">Godmode</a> - Remove the dying mechanic from the game.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Flappy%20Bird/Remove%20Pipes.js">Remove Pipes</a> - Removes all the pipes (you still get score).
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Flappy%20Bird/Set%20Score.js">Set%20Score</a> - Set your score to anything.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Flappy%20Bird/Set%20Score.js">Set Score</a> - Set your score to anything.
 - Crypto Hack:
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Crypto%20Hack/Auto%20Input%20Password.js">Auto Input Password</a> - Guess the password automatically once the password choices are shown.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Crypto%20Hack/Get%20Crypto.js">Get Crypto</a> - Set the crypto you have in crypto hack to anything you want.
