@@ -2,7 +2,7 @@
 <h3 align="center">One of the best Blooket hacks.</h3>
 <h2 align="center">Discord Support Server: https://discord.gg/abqMVbDanB</h2>
 
-#### Made by rxzyx (rzx), Minesraft2 and ZackiBoiz. This is purley for education purposes.
+#### Made by rxzyx (rzx) and ZackiBoiz. This is purley for education purposes.
 - 📫 Have a problem? **Just write an issue and I will do my best to respond.**
 
 ## How To Use:
