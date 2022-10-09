@@ -10,14 +10,11 @@
         return Object.values(document.querySelector('#app > div > div'))[1].children[1]._owner;
     };
     if (window.location.pathname != '/kingdom') {
-        alert('You must be in a crazy kingdom game!');
-    } else {
         reactHandler().stateNode.setState({
             materials: 100,
             people: 100,
             happiness: 100,
             gold: 100
         });
-        alert('max stats set!');
-    };
+    }
 })();
