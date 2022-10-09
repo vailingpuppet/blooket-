@@ -13,6 +13,5 @@
         alert('You must be in a crazy kingdom game!');
     } else {
         reactHandler().stateNode.nextGuest();
-        alert('Guest skipped!');
     };
 })();
