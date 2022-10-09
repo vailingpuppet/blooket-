@@ -29,7 +29,8 @@
     - <a href="https://github.com/ZackiBoiz/Blooket-Hacks/blob/main/Gold%20Quest/Get%20Gold.js">Get Gold</a> - Set the gold you have in gold quest to anything you want.
 - Crazy Kingdom
     - <a href="https://github.com/ZackiBoiz/Blooket-Hacks/blob/main/Crazy%20Kingdom/Choice%20ESP.js">Choice ESP</a> - See Target Choices in Crazy Kingom
-
+    - <a href="https://github.com/ZackiBoiz/Blooket-Hacks/blob/main/Crazy%20Kingdom/Get%20Resources.js">Get Resources</a> - Set all resources to 100 (max)
+    - <a href="https://github.com/ZackiBoiz/Blooket-Hacks/blob/main/Crazy%20Kingdom/Skip%20Guest.js">Skip Guest</a> - Skip the guest that is in play
 - Monster Brawl:
     - <a href="https://github.com/ZackiBoiz/Blooket-Hacks/blob/main/Monster%20Brawl/Godmode.js">Godmode</a> - Never die in Monster Brawl.
     - <a href="https://github.com/ZackiBoiz/Blooket-Hacks/blob/main/Monster%20Brawl/Max%Abilities.js">Max Abilities</a> - Maxes all your abilities.
