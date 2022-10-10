@@ -25,7 +25,7 @@
     - <a href="https://github.com/ZackiBoiz/Blooket-Hacks/blob/main/Deceptive%20Dinos/Fossil%20Hack.js">Fossil Hack</a> - Get however many Fossils you want.
     - <a href="https://github.com/ZackiBoiz/Blooket-Hacks/blob/main/Deceptive%20Dinos/Fossil%20Multiplier.js">Fossil Multiplier</a> - Set the fossil multiplier to anything.
 - Battle Royale
-    - <a href="https://github.com/ZackiBoiz/Blooket-Hacks/blob/main/Battle%20Royale/Set%20Energy.js">
+    - <a href="https://github.com/ZackiBoiz/Blooket-Hacks/blob/main/Battle%20Royale/Set%20Energy.js">Set Energy</a> - Set your energy in Battle Royale
 - Gold Quest:
     - <a href="https://github.com/ZackiBoiz/Blooket-Hacks/blob/main/Gold%20Quest/Chest%20ESP.js">Chest ESP</a> - See Through Chests in Gold Quest.
     - <a href="https://github.com/ZackiBoiz/Blooket-Hacks/blob/main/Gold%20Quest/Get%20Gold.js">Get Gold</a> - Set the gold you have in gold quest to anything you want.
