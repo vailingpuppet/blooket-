@@ -1,6 +1,6 @@
 <h1 align="center">Blooket Hack</h1>
 <h3 align="center">One of the best Blooket hacks.</h3>
-<h2 align="center">Discord Support Server: https://discord.gg/abqMVbDanB</h2>
+<h2 align="center"><a href="https://discord.gg/abqMVbDanB">Discord Support Server</a></h2>
 
 #### All hacks are borrowed, or made by [rzxyx](https://github.com/rxzyx/Blooket-Hacks), [Minesraft2](https://github.com/Minesraft2/Blooket-Cheats) and ZackiBoiz (me). This is purley for education purposes.
 - 📫 Have a problem? **Just write an issue and I will do my best to respond.**
