@@ -66,6 +66,7 @@
     - <a href="https://github.com/ZackiBoiz/Blooket-Hacks/blob/main/Factory/Clear%20Ads%20Forever.js">Clear Ads Forever</a> - This will clear all the all the ads throught the game.
 - Race:
     - <a href="https://github.com/ZackiBoiz/Blooket-Hacks/blob/main/Race/Instant%20Win.js">Instant Win</a> - Instantly win the race! (Once the hack is pasted and entered into the console then get a answer correct to win the game.)
+    - <a href="https://github.com/ZackiBoiz/Blooket-Hacks/blob/main/Race/Instant%20Win.js">Set Score</a> - Set score in racing.
 - Tower of Doom:
     - <a href="https://github.com/ZackiBoiz/Blooket-Hacks/blob/main/Tower%20Of%20Doom/Bad%20Enemy.js">Bad Enemy</a> - Make the enemy have really bad stats.
     - <a href="https://github.com/ZackiBoiz/Blooket-Hacks/blob/main/Tower%20Of%20Doom/Get%20Coins.js">Get Coins</a> - Set the coins you have to anything you want.
