@@ -1,9 +1,21 @@
+//Get IDs
 var iframe = document.createElement('iframe');
 iframe.style.display = 'none';
 document.body.appendChild(iframe);
-window.prompt = iframe.contentWindow.prompt;
 window.alert = iframe.contentWindow.alert;
 
+var blooks = Object.values(document.querySelector('#app > div > div'))[1].children[1]['_owner']
+	.stateNode.state.customBlooks;
+var split = "";
+for (i in blooks) {
+	split += `${blooks[i]}\n`;
+}
+var tab = window.open("about:blank", "_blank");
+tab.document.write("<textarea id=\"hack\" cols=150 rows=50></textarea>");
+tab.document.getElementById("hack").value = split;
+tab.document.close();
+
+//Set IDs
 var blook1 = prompt("Enter blook code 1. (Nothing for blank):", "0#46#13#16#14$0#39#32#4#8#3#4$0");
 var blook2 = prompt("Enter blook code 2. (Nothing for blank):", "0#46#13#16#14$0#39#32#4#8#3#4$0");
 var blook3 = prompt("Enter blook code 3. (Nothing for blank):", "0#46#13#16#14$0#39#32#4#8#3#4$0");
