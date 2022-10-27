@@ -29,13 +29,13 @@
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Gold%20Quest/Chest%20ESP.js">Chest ESP</a> - See Through Chests in Gold Quest.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Gold%20Quest/Get%20Gold.js">Get Gold</a> - Set the gold you have in gold quest to anything you want.
 - Candy Quest:
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Candy%20Quest/Pumpkin%20ESP.js">Chest ESP</a> - See Through Chests in Candy Quest.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Candy%20Quest/Pumpkin%20ESP.js">Pumpkin/Chest ESP</a> - See Through Chests in Candy Quest.
 - Monster Brawl:
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Monster%20Brawl/Godmode.js">Godmode</a> - Never die in Monster Brawl.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Monster%20Brawl/Max%Abilities.js">Max Abilities</a> - Maxes all your abilities.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Monster%20Brawl/Set%20Damage.js">Set Damage</a> - Set the damage your abilities do.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Monster%20Brawl/Set%20Level.js">Set Level</a> - Set your current level.
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Monster%20Brawl/Set%20Xp.js">Set Xp</a> - Set the amount of XP you have.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Monster%20Brawl/Set%20XP.js">Set XP</a> - Set the amount of XP you have.
 - Flappy Bird (game to play while waiting for host to start):
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Flappy%20Bird/Godmode.js">Godmode</a> - Remove the dying mechanic from the game.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Flappy%20Bird/Remove%20Pipes.js">Remove Pipes</a> - Removes all the pipes (you still get score).
