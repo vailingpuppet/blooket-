@@ -1,4 +1,3 @@
-//Get IDs
 var iframe = document.createElement('iframe');
 iframe.style.display = 'none';
 document.body.appendChild(iframe);
@@ -15,7 +14,6 @@ tab.document.write("<textarea id=\"hack\" cols=150 rows=50></textarea>");
 tab.document.getElementById("hack").value = split;
 tab.document.close();
 
-//Set IDs
 var blook1 = prompt("Enter blook code 1. (Nothing for blank):", "0#46#13#16#14$0#39#32#4#8#3#4$0");
 var blook2 = prompt("Enter blook code 2. (Nothing for blank):", "0#46#13#16#14$0#39#32#4#8#3#4$0");
 var blook3 = prompt("Enter blook code 3. (Nothing for blank):", "0#46#13#16#14$0#39#32#4#8#3#4$0");
