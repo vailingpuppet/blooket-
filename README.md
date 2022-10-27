@@ -15,7 +15,7 @@
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Manipulate%20Plus.js">Manipulate Plus</a> - Make yourself a Plus Flex user! This means you can play modes that are only availible to plus users!
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/All%20Answers%20Correct.js">All Answers Correct</a> - Get all the answers correct no matter what.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Host/End%20Game.js">End Game</a> - End the game. (Host)
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Host/Custom%20Blook.js">Custom Blook</a> - Sets your custom Blooks using IDs.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Host/Custom%20BlookS.js">Custom BlookS</a> - Sets your custom Blooks using IDs.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Flood%20Game.js">Flood Game</a> - Flood the game that you are in.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Host/Kick%20All.js">Kick All</a> - Kick Every Player In The Game. (Host)
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Host/Remove%20Player.js">Remove Player</a> - Remove a specific player from a game. (Host)
