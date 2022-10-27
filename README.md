@@ -33,7 +33,7 @@
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Candy%20Quest/Pumpkin%20ESP.js">Pumpkin ESP</a> - See through Pumpkins in Candy Quest.
 - Monster Brawl:
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Monster%20Brawl/Godmode.js">Godmode</a> - Never die in Monster Brawl.
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Monster%20Brawl/Max%Abilities.js">Max Abilities</a> - Maxes all your abilities.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Monster%20Brawl/Max%Abilities.js">Max Abilities</a> - Maxes all your current abilities.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Monster%20Brawl/Set%20Damage.js">Set Damage</a> - Set the damage your abilities do.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Monster%20Brawl/Set%20Level.js">Set Level</a> - Set your current level.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Monster%20Brawl/Set%20XP.js">Set XP</a> - Set the amount of XP you have.
