@@ -21,7 +21,6 @@
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Anti-Ban.js">Anti-Ban</a> - Prevent your account from being suspended. If you don't want to run this every time, you can use the <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Tampermonkey/Anti-Ban.js">Tampermonkey Version</a>.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Select%20Any%20Blook.js">Select Any Blook</a> - Select any blook that you want before the game starts! Fixed by <a href="https://github.com/notzastix">@notzastix</a> on GitHub!
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Get%20Answer%20Points.js">Get Answer Points</a> - Get however much of correct answers in the final score you want.
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Sell%20Dupes.js">Sell Dupes</a> - Sell all of your Blook duplicates until you only have one left for Tokens.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Sell%20Dupes.js">Sell Dupes</a> - Sell all of your duplicates until you only have one.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Custom%20Blooks.js">Custom Blooks</a> - Set your custom blooks, no matter if you unlocked them, or not!
 - Deceptive Dinos:
