@@ -3,11 +3,17 @@
 <h2 align="center">Discord Support Server: https://discord.gg/abqMVbDanB</h2>
 
 #### Made by rxzyx (rzx). This is purley for education purposes.
-- 📫 Have a problem? **Just write an issue and I will do my best to respond.**
+- 📫 Have a problem? **Just open an issue and I will do my best to respond.**
 
 ## How To Use:
 
-- Simply open the file that sounds more interesting, click the "Raw" button, then copy the code and paste it into the chrome console when you're on Blooket.
+#### Desktop: 
+1. Open the file you find interesting.
+2. Use the copy button on the file, or click "Raw" and copy it all.
+3. Open the Inspect tool.
+4. Switch to the Console.
+5. Paste the script.
+6. Click enter.
 
 ## Features:
 - Default Scripts:
@@ -38,7 +44,6 @@
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Monster%20Brawl/Set%20Level.js">Set Level</a> - Set your current level.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Monster%20Brawl/Set%20XP.js">Set XP</a> - Set the amount of XP you have.
 - Flappy Bird (game to play while waiting for host to start):
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Flappy%20Bird/Godmode.js">Godmode</a> - Remove the dying mechanic from the game.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Flappy%20Bird/Remove%20Pipes.js">Remove Pipes</a> - Removes all the pipes (you still get score).
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Flappy%20Bird/Set%20Score.js">Set Score</a> - Set your score to anything.
 - Crypto Hack:
