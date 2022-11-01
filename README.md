@@ -56,7 +56,7 @@
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Clear%20Enemies.js">Clear Enemies</a> - Clear the enemies on the screen.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Get%20Damage.js">Get Damage</a> - Set the damage you have to anything you want.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Get%20Tokens.js">Get Tokens</a> - Set the Tokens you have to anything you want.
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Overpowered%20Towers.js">Overpowered Tokens</a> - Make the towers you place and have overpowered.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Overpowered%20Towers.js">Overpowered Towers</a> - Make the towers you place have overpowered stats.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Place%20Blooks%20Anywhere.js">Place Blooks Anywhere</a> - Place the Blooks anywhere you want.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Set%20Round.js">Set Round</a> - Set the round to anything you want.
 - Café:
