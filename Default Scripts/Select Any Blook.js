@@ -1,1 +1,10 @@
-Object.values(document.querySelector("#app > div > div"))[1].children[0]._owner.stateNode.setState({ unlocks: Object.values(webpackJsonp.push([[], { ['']: (_, a, b) => { a.cache = b.c }, }, [['']],]).cache).find(x=>x.exports?.a?.toString().includes('UFO')).exports.a.toString().split('"').filter(b => !(b.startsWith(';') || b.startsWith(':') || b.startsWith('function') || b.startsWith('}'))) });
+var iframe = document.createElement('iframe');
+iframe.style.display = 'none';
+document.body.appendChild(iframe);
+window.prompt = iframe.contentWindow.prompt;
+
+var hack = Object.values(document.querySelector('#app > div > div'))[1].children[1]['_owner'].stateNode;
+var u_choice = prompt("Enter a blook! (USE CORRECT CAPITALIZATION)");
+hack.setState({
+	blook: u_choice
+});
