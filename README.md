@@ -92,7 +92,7 @@
     
     
 - Race:
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Race/Instant%20Win.js">Instant Win</a> - Instantly win the race! (Once the hack is used, get one qeustion right to win)
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Race/Instant%20Win.js">Instant Win</a> - Instantly win the race! (Once the hack is used, get one question right to win)
     
     
 - Tower of Doom:
