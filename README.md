@@ -98,7 +98,7 @@
 - Tower of Doom:
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Of%20Doom/Bad%20Enemy.js">Bad Enemy</a> - Make the enemy have really bad stats.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Of%20Doom/Get%20Coins.js">Get Coins</a> - Set your coins.
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Of%20Doom/Health%20Hack.js">Health Hack</a> - Set your health.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Of%20Doom/Set%20Health.js">Set Health</a> - Set your health.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Of%20Doom/Max%20Stats.js">Max Stats</a> - Make your current card overpowered.
 
 
