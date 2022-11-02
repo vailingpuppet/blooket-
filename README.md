@@ -30,7 +30,7 @@
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Sell%20Dupes.js">Sell Dupes</a> - Sell all of your duplicates until you only have one.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Custom%20Blooks.js">Custom Blooks</a> - Set your custom blooks, no matter if you unlocked them, or not!
 - Deceptive Dinos:
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Deceptive%20Dinos/Fossil%20Hack.js">Fossil Hack</a> - Set the Fossils you have to anything you want.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Deceptive%20Dinos/Set%20Fossils.js">Set Fossils</a> - Set the Fossils you have to anything you want.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Deceptive%20Dinos/Fossil%20Multiplier.js">Fossil Multiplier</a> - Set the fossil multiplier to anything.
 - Gold Quest:
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Gold%20Quest/Chest%20ESP.js">Chest ESP</a> - See through Chests.
