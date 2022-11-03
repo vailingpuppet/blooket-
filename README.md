@@ -40,7 +40,7 @@
     
 - Gold Quest:
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Gold%20Quest/Chest%20ESP.js">Chest ESP</a> - See through Chests.
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Gold%20Quest/Get%20Gold.js">Get Gold</a> - Set your Gold to anything.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Gold%20Quest/Set%20Gold.js">Set Gold</a> - Set your Gold to anything.
     
     
 - Candy Quest:
