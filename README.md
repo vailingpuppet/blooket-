@@ -16,7 +16,7 @@
 
 ## Features:
 - Default Scripts:
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Add%20Tokens.js">Add Tokens</a> - Add the maximum XP and Tokens availible for the day.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Add%20Tokens%20and%20XP.js">Add Tokens and XP</a> - Add the maximum XP and Tokens availible for the day.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/All%20Answers%20Correct.js">All Answers Correct</a> - Get all the answers correct, no matter what.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Anti-Ban.js">Anti-Ban</a> - Prevent your account from being suspended. If you don't want to run this every time, you can use the <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Tampermonkey/Anti-Ban.js">Tampermonkey Version</a>.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Custom%20Blooks.js">Custom Blooks</a> - Spoof your custom blooks, no matter if you unlocked them, or not!
