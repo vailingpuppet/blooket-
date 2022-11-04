@@ -16,7 +16,7 @@
 
 ## Features:
 - Default Scripts:
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Add%20Tokens.js">Add Tokens</a> - Add the maximum XP and Tokens availible for the day.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Add%20Tokens%20and%20XP.js">Add Tokens and XP</a> - Add the maximum XP and Tokens availible for the day.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/All%20Answers%20Correct.js">All Answers Correct</a> - Get all the answers correct, no matter what.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Anti-Ban.js">Anti-Ban</a> - Prevent your account from being suspended. If you don't want to run this every time, you can use the <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Tampermonkey/Anti-Ban.js">Tampermonkey Version</a>.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Custom%20Blooks.js">Custom Blooks</a> - Spoof your custom blooks, no matter if you unlocked them, or not!
@@ -40,7 +40,7 @@
     
 - Gold Quest:
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Gold%20Quest/Chest%20ESP.js">Chest ESP</a> - See through Chests.
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Gold%20Quest/Get%20Gold.js">Get Gold</a> - Set your Gold to anything.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Gold%20Quest/Set%20Gold.js">Set Gold</a> - Set your Gold to anything.
     
     
 - Candy Quest:
@@ -62,31 +62,31 @@
     
 - Crypto Hack:
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Crypto%20Hack/Auto%20Input%20Password.js">Auto Input Password</a> - Automatically inputs the right password in during a Hack.
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Crypto%20Hack/Get%20Crypto.js">Get Crypto</a> - Set the Crypto you have to anything you want.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Crypto%20Hack/Set%20Crypto.js">Set Crypto</a> - Set the Crypto you have to anything you want.
     
     
 - Fishing Frenzy:
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Fishing%20Frenzy/Get%20Weight.js">Get Weight</a> - Set your Fish Weight.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Fishing%20Frenzy/Set%20Weight.js">Set Weight</a> - Set your Fish Weight.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Fishing%20Frenzy/Set%20Frenzy%20Mode.js">Set Frenzy Mode</a> - Set the mode to Frenzy.
     
     
 - Tower Defense:
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Clear%20Enemies.js">Clear Enemies</a> - Clear the enemies on the screen.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Get%20Damage.js">Get Damage</a> - Set your total damage.
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Get%20Tokens.js">Get Tokens</a> - Set your in-game tokens.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Set%20Tokens.js">Set Tokens</a> - Set your in-game tokens.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Overpowered%20Towers.js">Overpowered Towers</a> - Make all of your Towers Overpowered.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Place%20Blooks%20Anywhere.js">Place Blooks Anywhere</a> - Place the Blooks anywhere.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Set%20Round.js">Set Round</a> - Set the game round.
     
     
 - Cafe:
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Cafe/Get%20Cash.js">Get Cash</a> - Set your cash.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Cafe/Set%20Cash.js">Set Cash</a> - Set your cash.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Cafe/Max%20Level%20Items.js">Max Level Items</a> - Set the items you have to the maximum level.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Cafe/Stock%20Unlimited%20Food.js">Stock Unlimited Food</a> - Max the stock of each food to 99.
     
     
 - Factory:
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Factory/Add%20Cash.js">Add Cash</a> - Set the game cash.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Factory/Set%20Cash.js">Set Cash</a> - Set the game cash.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Factory/Add%20Mega%20Bot.js">Add Mega Bot</a> - Sets your Blooks to 10 Mega Bots.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Factory/Clear%20Ads%20Forever.js">Clear Ads Forever</a> - Never get ads in live games!
     
@@ -97,7 +97,7 @@
     
 - Tower of Doom:
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Of%20Doom/Bad%20Enemy.js">Bad Enemy</a> - Make the enemy have really bad stats.
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Of%20Doom/Get%20Coins.js">Get Coins</a> - Set your coins.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Of%20Doom/Set%20Coins.js">Set Coins</a> - Set your coins.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Of%20Doom/Set%20Health.js">Set Health</a> - Set your health.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Of%20Doom/Max%20Stats.js">Max Stats</a> - Make your current card overpowered.
 
