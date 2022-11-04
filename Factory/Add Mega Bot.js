@@ -1,11 +1,12 @@
-var f = document.createElement('iframe')
-f.style.display = 'none'
-document.body.appendChild(f)
-window.prompt = f.contentWindow.prompt
-var world = Object.values(document.querySelector('#app > div > div'))[1]
-    .children[1]['_owner'].stateNode.state,
-    u_prompt = parseInt(prompt('How many mega-bots do you want?')),
-    multi = parseInt(prompt('How much multi do you want?'))
+var iframe = document.createElement('iframe');
+iframe.style.display = 'none';
+document.body.appendChild(iframe);
+window.prompt = iframe.contentWindow.prompt;
+
+var hack = Object.values(document.querySelector('#app > div > div'))[1].children[1]._owner.stateNode.state;
+var u_prompt = parseInt(prompt('How many mega-bots do you want?'));
+var multi = parseInt(prompt('How much multi do you want?'));
+
 for (var i = 0; i < u_prompt; i++) {
     var megaBot = {
         name: 'Mega Bot',
@@ -19,7 +20,5 @@ for (var i = 0; i < u_prompt; i++) {
         level: 4,
         bonus: multi,
     }
-    Object.values(document.querySelector('#app > div > div'))[1].children[1][
-        '_owner'
-    ].stateNode.state.blooks.push(megaBot)
+    hack.blooks.push(megaBot)
 }
