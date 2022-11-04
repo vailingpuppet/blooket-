@@ -76,6 +76,8 @@
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Clear%20Enemies.js">Clear Enemies</a> - Clear the enemies on the screen.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Set%20Damage.js">Set Damage</a> - Set your total damage.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Set%20Tokens.js">Set Tokens</a> - Set your in-game Tokens.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Get%20Damage.js">Get Damage</a> - Set your total damage.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Set%20Tokens.js">Set Tokens</a> - Set your in-game tokens.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Overpowered%20Towers.js">Overpowered Towers</a> - Make all of your Towers Overpowered.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Place%20Blooks%20Anywhere.js">Place Blooks Anywhere</a> - Place Towers in restricted spots.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Set%20Round.js">Set Round</a> - Set the game round.
@@ -95,6 +97,8 @@
 
 - Racing:
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Racing/Instant%20Win.js">Instant Win</a> - Instantly win the race! (Once the hack is used, get one question right to win)
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Factory/Add%20Mega%20Bot.js">Add Mega Bot</a> - Sets your Blooks to 10 Mega Bots.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Factory/Clear%20Ads%20Forever.js">Clear Ads Forever</a> - Never get ads in live games!
 
 
 - Tower of Doom:
