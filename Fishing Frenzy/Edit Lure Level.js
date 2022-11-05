@@ -8,6 +8,6 @@ var hack = Object.values(document.querySelector('#app > div > div'))[1].children
 
 var lure = Number(parseFloat(prompt('What do you want to set your lure to? (1 - 5)'))) - 1;
 hack.setState({
-    lure: lure < 0 ? 0 : lure > 4 ? 4 : lure
+    lure: lure
 });
 alert('Lure set!');
