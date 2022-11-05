@@ -6,8 +6,8 @@ window.prompt = iframe.contentWindow.prompt;
 
 var hack = Object.values(document.querySelector('#app > div > div'))[1].children[1]._owner.stateNode;
 
-var lure = Number(parseFloat(prompt('What do you want to set your lure to? (1 - 5)'))) - 1;
+var lure = parseInt(prompt('Lure value? (1 to 5)')) - 1;
 hack.setState({
     lure: lure
 });
-alert('Lure set!');
+alert(`Lure set to ${lure}!`);
