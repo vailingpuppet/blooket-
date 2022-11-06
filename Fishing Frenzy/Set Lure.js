@@ -10,4 +10,4 @@ var lure = parseInt(prompt('Lure value? (1 to 5)')) - 1;
 hack.setState({
     lure: lure
 });
-alert(`Lure set to ${lure}!`);
+alert(`Lure set to ${lure + 1}!`);
