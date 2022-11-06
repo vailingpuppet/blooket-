@@ -63,28 +63,29 @@
 
 
 - Crypto Hack:
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Crypto%20Hack/Auto%20Input%20Password.js">Auto Input Password</a> - Automatically inputs the right password in during a Hack.
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Crypto%20Hack/Set%20Crypto.js">Set Crypto</a> - Set the Crypto you have to anything you want.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Crypto%20Hack/Auto%20Input%20Password.js">Auto Input Password</a> - Automatically inputs the right password in during a hack.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Crypto%20Hack/Set%20Crypto.js">Set Crypto</a> - Set the total crypto you have to anything you want.
 
 
 - Fishing Frenzy:
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Fishing%20Frenzy/Set%20Weight.js">Set Weight</a> - Set your Fish Weight.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Fishing%20Frenzy/Set%20Weight.js">Set Weight</a> - Set your total fish weight.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Fishing%20Frenzy/Set%20Frenzy%20Mode.js">Set Frenzy Mode</a> - Set the mode to Frenzy.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Fishing%20Frenzy/Set%20Lure.js">Set Lure</a> - Set the lure level.
 
 
 - Tower Defense:
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Clear%20Enemies.js">Clear Enemies</a> - Clear the enemies on the screen.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Set%20Damage.js">Set Damage</a> - Set your total damage.
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Set%20Tokens.js">Set Tokens</a> - Set your in-game Tokens.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Set%20Tokens.js">Set Tokens</a> - Set your in-game tokens.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Get%20Damage.js">Get Damage</a> - Set your total damage.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Set%20Tokens.js">Set Tokens</a> - Set your in-game tokens.
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Overpowered%20Towers.js">Overpowered Towers</a> - Make all of your Towers Overpowered.
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Place%20Blooks%20Anywhere.js">Place Blooks Anywhere</a> - Place Towers in restricted spots.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Overpowered%20Towers.js">Overpowered Towers</a> - Make all of your towers overpowered.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Place%20Blooks%20Anywhere.js">Place Blooks Anywhere</a> - Place towers in restricted spots.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Defense/Set%20Round.js">Set Round</a> - Set the game round.
 
 
 - Café:
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Cafe/Set%20Cash.js">Set Cash</a> - Set your Cash.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Cafe/Set%20Cash.js">Set Cash</a> - Set your cash.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Cafe/Max%20Level%20Items.js">Max Level Items</a> - Set the items you have to the maximum level.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Cafe/Stock%20Unlimited%20Food.js">Stock Unlimited Food</a> - Set the stock of each currently unlocked food to 99.
 
