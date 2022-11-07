@@ -92,21 +92,18 @@
 
 - Factory:
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Factory/Set%20Cash.js">Set Cash</a> - Set the game cash.
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Factory/Add%20Mega%20Bots.js">Add Mega Bots</a> - Sets your Blooks to 10 maxed out Mega Bots.
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Factory/Clear%20Ads%20Forever.js">Clear Ads Forever</a> - Never see ads in the game!
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Factory/Add%20Mega%20Bot.js">Add Mega Bot</a> - Set all factory cards to Mega Bot.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Factory/Clear%20Ads%20Forever.js">Clear Ads Forever</a> - Never receive ads in-game.
 
 
 - Racing:
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Racing/Instant%20Win.js">Instant Win</a> - Instantly win the race! (Once the hack is used, get one question right to win)
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Factory/Add%20Mega%20Bot.js">Add Mega Bot</a> - Sets your Blooks to 10 Mega Bots.
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Factory/Clear%20Ads%20Forever.js">Clear Ads Forever</a> - Never get ads in live games!
-
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Racing/Instant%20Win.js">Instant Win</a> - Win racing. <I>NOTE: (Once the hack is used, get one question right to win)</I>
 
 - Tower of Doom:
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Of%20Doom/Bad%20Enemy.js">Bad Enemy</a> - Make the enemy have really bad stats.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Of%20Doom/Bad%20Enemy.js">Bad Enemy</a> - Minimize opponent's card stats.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Of%20Doom/Set%20Coins.js">Set Coins</a> - Set your coins.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Of%20Doom/Set%20Health.js">Set Health</a> - Set your health.
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Of%20Doom/Max%20Stats.js">Max Stats</a> - Make your current card overpowered.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Of%20Doom/Max%20Stats.js">Max Stats</a> - Max your card stats.
 
 
 #### I am not responsible for your actions with these cheats.
