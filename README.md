@@ -65,6 +65,7 @@
 - Crypto Hack:
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Crypto%20Hack/Auto%20Input%20Password.js">Auto Input Password</a> - Automatically inputs the right password in during a hack.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Crypto%20Hack/Set%20Crypto.js">Set Crypto</a> - Set the total crypto you have to anything you want.
+    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Crypto%20Hack/Set%20Password.js">Set Crypto</a> - Set the password to anything you want.
 
 
 - Fishing Frenzy:
