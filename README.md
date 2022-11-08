@@ -2,7 +2,7 @@
 <h3 align="center">One of the best Blooket hacks.</h3>
 <h2 align="center"><a href="https://discord.gg/abqMVbDanB">Discord Support Server</a></h2>
 
-#### All hacks are borrowed, or made by [rzxyx](https://github.com/rxzyx/Blooket-Hacks), [notzastix](https://github.com/notzastix/Blooket-Hacks-1) and ZackiBoiz (me). This is purley for education purposes.
+#### All hacks are borrowed, or made by vailingpuppet (me). This is purley for education purposes.
 - 📫 Have a problem? **Just write an issue and I will do my best to respond.**
 
 ## How To Use:
