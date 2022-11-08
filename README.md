@@ -1,6 +1,6 @@
 <h1 align="center">Blooket Hack</h1>
 <h3 align="center">One of the best Blooket hacks.</h3>
-<h2 align="center"><a href="https://discord.gg/abqMVbDanB">Discord Support Server</a></h2>
+<h2 align="center"><a href="https://discord.com/channels/1039682721951260742/1039683642127032420">Discord Support Server</a></h2>
 
 #### All hacks are borrowed, or made by vailingpuppet (me). This is purley for education purposes.
 - 📫 Have a problem? **Just write an issue and I will do my best to respond.**
