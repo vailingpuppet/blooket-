@@ -42,12 +42,6 @@
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Gold%20Quest/Chest%20ESP.js">Chest ESP</a> - See through Chests.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Gold%20Quest/Set%20Gold.js">Set Gold</a> - Set your Gold to anything.
 
-
-- Candy Quest:
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Candy%20Quest/Pumpkin%20ESP.js">Pumpkin ESP</a> - See through Pumpkins.
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Candy%20Quest/Set%20Candy.js">Set Candy</a> - Set your Candy to anything.
-
-
 - Monster Brawl:
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Monster%20Brawl/Godmode.js">Godmode</a> - Never die.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Monster%20Brawl/Max%Abilities.js">Max Abilities</a> - Set all your current abilities to level 9.
