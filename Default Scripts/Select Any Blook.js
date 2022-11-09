@@ -1,10 +1,33 @@
-var iframe = document.createElement('iframe');
-iframe.style.display = 'none';
-document.body.appendChild(iframe);
-window.prompt = iframe.contentWindow.prompt;
+function getStateNode() {
+	for (var i of Object.keys(document.querySelector('#app > div > div'))) {
+		if (i.toString().includes('__reactEventHandlers')) {
+			for (var j of Object.values(document.querySelector("#app > div > div")[i].children.filter(n => n))) {
+				if (j._owner && j._owner.stateNode) {
+					return j._owner.stateNode;
+				}
+			}
+		}
+	}
+}
 
-var hack = Object.values(document.querySelector('#app > div > div'))[1].children[1]['_owner'].stateNode;
-var u_choice = prompt("Enter a blook! (USE CORRECT CAPITALIZATION)");
-hack.setState({
-	blook: u_choice
-});
+function findByProp(find) {
+	return Object.values(webpackJsonp.push([
+			[],
+			{
+				['']: (_, a, b) => {
+					a.cache = b.c;
+				}
+			},
+			[
+				['']
+			],
+		]).cache)
+		.find((x) => {
+			if (x.exports && x.exports.a && x.exports.a[find]) {
+				return x.exports.a;
+			}
+		})
+		.exports.a;
+}
+getStateNode().state.unlocks = Object.keys(findByProp("UFO"));
+getStateNode().forceUpdate();
